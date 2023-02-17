@@ -1,0 +1,13 @@
+p{
+    text-align: center;
+    border:1cm;
+    color: black;
+}
+h1{
+    text-align: center;
+    border: 0.5cm;
+    color: darkred;
+}
+body{
+    background-color: lightsteelblue;
+}
